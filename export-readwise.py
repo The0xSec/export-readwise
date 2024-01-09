@@ -20,7 +20,7 @@ import os
 import markdownify
 
 base_readwise_url = "https://readwise.io/api/v2/auth/"
-readwise_token = os.environ['ftMJXrcss7XYCIauE2w1OTgex18xCBJgUsuJrSHTXPmcBejfMQ'] 
+readwise_token = os.environ[''] 
 base_mem_url = "https://api.mem.ai/v0/mems"
 
 
